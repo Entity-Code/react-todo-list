@@ -1,1 +1,1 @@
-<h1>My first little project in React ^^</h1>
+<h3>My first little project in React ^^</h3>
